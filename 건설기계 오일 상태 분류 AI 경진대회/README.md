@@ -99,6 +99,10 @@ Tree 기반의 기계학습으로만 접근한 것이 아쉬움.  지식 증류 
 <img src= "https://github.com/smart0515/Dacon-/assets/48974564/191d5c6d-e93d-48b8-9529-5b6543fab7c2" height="500px" width="880px">
 <br>
 
+<img src="https://github.com/smart0515/Dacon-/assets/48974564/f8bb4257-ea50-4595-8d4f-6ef4a7cbeccd"  height="200px" width="400px">
+
+<br><br>
+
 **Teacher와 Student model의 layer**
 
 <img src= "https://github.com/smart0515/Dacon-/assets/48974564/2f3d3a83-4a7c-44df-ba9c-9dba89e8e6ec" height="450px" width="300px">
